@@ -1,6 +1,7 @@
-A repository with some of my work done at the University of Wroclaw
+## About
+A repository containing some of my work done at the University of Wroclaw
 
-## Courses passed so far:
+## My courses:
 
 ### 1st Semester:
 - [x] Introduction to Programming in Python
