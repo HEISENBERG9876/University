@@ -1,5 +1,5 @@
 ## About
-A repository containing some of my work done at the University of Wroclaw
+A repository containing some of my work done at the University of Wroclaw.
 
 ## My courses:
 
