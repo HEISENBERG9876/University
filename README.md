@@ -39,3 +39,10 @@ A repository containing some of my work done at the University of Wroclaw.
 - [x] Selected Aspects of Practical Software Development
 - [x] Software Engineering
 
+### 6th Semester- In Progress
+- [ ] Object Oriented Software Development
+- [ ] Scala in Practice
+- [ ] Frontend App Development
+- [ ] Computer Networks
+- [ ] Probability and Statistics
+
