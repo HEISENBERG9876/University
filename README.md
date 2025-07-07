@@ -40,9 +40,9 @@ A repository containing some of my work done at the University of Wroclaw.
 - [x] Software Engineering
 
 ### 6th Semester- In Progress
-- [ ] Object Oriented Software Development
-- [ ] Scala in Practice
-- [ ] Frontend App Development
-- [ ] Computer Networks
-- [ ] Probability and Statistics
+- [x] Object Oriented Software Development
+- [x] Scala in Practice
+- [x] Frontend App Development
+- [x] Computer Networks
+- [x] Probability and Statistics
 
